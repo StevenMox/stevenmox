@@ -10,4 +10,5 @@ So looks like it's a holiday here and there won't be any school to go to. So ins
 
 Awesome Brick Breaking Game
 <canvas id="myCanvas2" width="750" height="500"></canvas>
-<script src="/js/brickbreak.js"></script>
+<script src="/js/brickbreak.js">
+</script>

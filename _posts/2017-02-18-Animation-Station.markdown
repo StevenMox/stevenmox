@@ -10,4 +10,5 @@ Not much to post today but check out this cool animation that I created with [Co
 
 <canvas id="myCanvas"></canvas>
 <script type="text/javascript" src="https://s3.amazonaws.com/codecademy-content/courses/hour-of-code/js/bubbles.js"></script>
-<script type="text/javascript" src="/js/animate.js"></script>
+<script type="text/javascript" src="/js/animate.js">
+</script>
