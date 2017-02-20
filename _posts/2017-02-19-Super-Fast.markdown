@@ -9,4 +9,4 @@ Probably shouldn't even fully consider this a post but more of just a way to say
 <b>"A fool and his money soon part." 🤔 - Thomas Tusser</b>
 
 
-<img src="/img/funny.jpeg" alt="funny stuff not found" style=" width:700px; height:500px;"/>
+<img src="https://cdn-images-1.medium.com/max/1600/1%2AvCWTw7sZy52XNjltq03GQw.jpeg" alt="funny stuff not found" style=" width:700px; height:500px;"/>
