@@ -16,6 +16,7 @@ The languages that I am interested in learning are
 * Python
 * Ruby
 * Jekyll/Markdown
+* Node/Node.js
 
 I hope to keep learning and obviously have alot to understand but its quite
 enjoyable to see a piece of code you written turn into an actual thing.
