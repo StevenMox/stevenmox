@@ -8,6 +8,5 @@ Not much to post today but check out this cool animation that I created with [Co
 
 <b>It is never to late to be what you might have been." - George Elliot</b>
 
-<canvas id="myCanvas"></canvas>
-<script type="text/javascript" src="https://s3.amazonaws.com/codecademy-content/courses/hour-of-code/js/bubbles.js"></script>
-<script type="text/javascript" src="/js/animate.js"></script>
+<iframe height='400' scrolling='no' title='Animate Name' src='//codepen.io/stevenmox/embed/VPJJbY/?height=600&theme-id=dark&default-tab=result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width:100%;'>See the Pen <a href='http://codepen.io/stevenmox/pen/VPJJbY/'>Animate Name</a> by Steven Moxley (<a href='http://codepen.io/stevenmox'>@stevenmox</a>) on <a href='http://codepen.io'>CodePen</a>.
+</iframe>

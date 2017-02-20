@@ -8,5 +8,5 @@ So today I finally worked on code, actually javascript code and built a small po
 
 <b>"Love the giver more than the gift." - Brigham Young</b>
 
-<canvas id="gameCanvas" width="600" height="400"></canvas>
-<script src="/js/game.js"></script>
+<iframe height='480' scrolling='no' title='Pong' src='//codepen.io/stevenmox/embed/PWrrVK/?height=480&theme-id=dark&default-tab=result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='http://codepen.io/stevenmox/pen/PWrrVK/'>Pong</a> by Steven Moxley (<a href='http://codepen.io/stevenmox'>@stevenmox</a>) on <a href='http://codepen.io'>CodePen</a>.
+</iframe>
