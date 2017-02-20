@@ -1,8 +1,8 @@
 title: ENJOY!
 email: stevenjmoxley@gmail.com
 description: This site is dedicated for my blogging and ever learning knowledge of programming and just things that I like
-baseurl: "/stevenmox"
-url: "https://stevenmox.github.io/stevenmox/"
+baseurl: ""
+url: "http://localhost:4000/"
 twitter_username: stevenmox
 github_username:  stevenmox
 instagram_username: stevenmox
