@@ -21,4 +21,3 @@ feel free to check me out at any of the social media links or drop me an email t
   <a href="mailto:stevenjmoxley@gmail.com">
     <i class="fa fa-envelope"></i> Email
   <a/>
-  

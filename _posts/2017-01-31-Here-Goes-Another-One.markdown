@@ -4,7 +4,7 @@ title:  "Here Goes Another One"
 date:   2017-01-31
 categories: jekyll update
 ---
-Not really a post persay but just 2 things I came accross that I thought should share 🙃
+Not really a post persay but just 2 things I came across that I thought should share 🙃
 
 <b>"I am prepared for the worst, but hope for the best" - Benjamin Disaraeli</b>
 
