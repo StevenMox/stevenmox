@@ -19,5 +19,5 @@ feel free to check me out at any of the social media links or drop me an email t
     <i class="fa fa-twitter"></i> Twitter
   </a>
   <a href="mailto:stevenjmoxley@gmail.com">
-    <i class="fa fa-envelope"></i> Gmail
+    <i class="fa fa-envelope"></i> Email
   <a/>
