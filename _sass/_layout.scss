@@ -109,10 +109,18 @@ footer {
 	font-weight: bold;
 }
 
-.yoda{
-	text-align: center;
-	padding-top: 1em;
-	padding-right: 1em;
+// .yoda{
+// 	text-align: center;
+// 	padding-top: 1em;
+// 	padding-right: 1em;
+// }
+
+.yoda,img{
+	max-width: 100%;
+	height: auto;
+	display: block;
+	margin: auto;
+	width: auto;
 }
 
 .funny-img{
