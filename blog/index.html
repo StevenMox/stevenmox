@@ -1,9 +1,12 @@
 ---
 layout: default
 ---
+&nbsp;
 <img class="moi" src="img/moi.jpg" alt="I'm not FOUND!!!">
 <br>
+<div class="blog-posts">
 {% for post in site.posts %}&nbsp;
 		<time>{{ post.date | date: "%b %-d, %Y" }}</time>
 		<h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
 {% endfor %}
+</div>
