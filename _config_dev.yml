@@ -6,6 +6,7 @@ url: "http://localhost:4000/"
 twitter_username: stevenmox
 github_username:  stevenmox
 instagram_username: stevenmox
+codepen_username: stevenmox
 
 sass:
   sass_dir: _sass
