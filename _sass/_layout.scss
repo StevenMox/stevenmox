@@ -115,14 +115,19 @@ footer {
 	padding-right: 1em;
 }
 
-img{
+.funny-img{
 	max-width: 100%;
-	height: inherit;
+	height: auto;
+	display: block;
+	margin: auto;
+	width: 50%;
 }
 
-iframe{
+.myvid{
 	max-width: 100%;
 	height: 500;
+	display: block;
+	margin: auto;
 }
 
 .projects{
@@ -135,4 +140,11 @@ iframe{
 
 .social-contact,a{
 	padding: 10px;
+}
+
+.moi{
+	height:100px;
+	max-width: 100%;
+	width:100px;
+	border-radius:50%;
 }
