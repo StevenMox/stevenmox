@@ -109,11 +109,11 @@ footer {
 	font-weight: bold;
 }
 
-.yoda,img{
-	max-width: 100%;
-	height: auto;
-	display: block;
-	margin: auto;
+.yoda{
+	// max-width: 100%;
+	// height: auto;
+	// display: block;
+	// margin: auto;
 	width: auto;
 }
 
@@ -122,11 +122,8 @@ footer {
 }
 
 .funny-img{
-	max-width: 100%;
-	height: auto;
-	display: block;
-	margin: auto;
-	width: 50%;
+	width: 475px;
+	height: 275px;
 }
 
 .myvid{
@@ -153,8 +150,13 @@ footer {
 }
 
 .moi{
-	height:100px;
-	max-width: 100%;
 	width:100px;
 	border-radius:50%;
+}
+
+img{
+	max-width: 100%;
+	height: auto;
+	display: block;
+	margin: auto;
 }
