@@ -110,10 +110,6 @@ footer {
 }
 
 .yoda{
-	// max-width: 100%;
-	// height: auto;
-	// display: block;
-	// margin: auto;
 	width: auto;
 }
 
@@ -159,4 +155,9 @@ img{
 	height: auto;
 	display: block;
 	margin: auto;
+}
+
+.solarsystem{
+	max-width: inherit;;
+	text-align: center;
 }
