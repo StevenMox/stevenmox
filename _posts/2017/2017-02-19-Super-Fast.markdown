@@ -8,4 +8,4 @@ Probably shouldn't even fully consider this a post but more of just a way to say
 
 <b>"A fool and his money soon part." 🤔 - Thomas Tusser</b>
 
-<img class="funny-img" src="https://cdn-images-1.medium.com/max/1600/1%2AvCWTw7sZy52XNjltq03GQw.jpeg" alt="funny stuff not found"/>
+<img class="images" src="https://cdn-images-1.medium.com/max/1600/1%2AvCWTw7sZy52XNjltq03GQw.jpeg" alt="funny stuff not found"/>
