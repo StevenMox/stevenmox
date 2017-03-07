@@ -8,7 +8,7 @@ So look's like we have made it to the end of my month aka February. That seemed 
 
 <p style="text-align:center;"><a href="http://www.thatsoftwaredude.com/content/6421/sketching-your-code" target="_blank" title="Sketch Your Code">"Sketch Your Code"</a></p>
 
-<b>"You must be the change you wish to see in the world." -  Mahatma Gandhi</b>
+<div class="quote"><b>"You must be the change you wish to see in the world." -  Mahatma Gandhi</b>
 
 <p data-height="662" data-theme-id="dark" data-slug-hash="wJKxvj" data-default-tab="result" data-user="stevenmox" data-embed-version="2" data-pen-title="Blackjack" class="codepen">See the Pen <a href="http://codepen.io/stevenmox/pen/wJKxvj/">Blackjack</a> by Steven Moxley (<a href="http://codepen.io/stevenmox">@stevenmox</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>

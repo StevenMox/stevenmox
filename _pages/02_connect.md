@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Social
-permalink: /social/
+title: Connect
+permalink: /connect/
 ---
 
 If you wanna check and see what I'm up to in the world of TECH or the world of BMX, feel free to check me out at any of the social media links or drop me an email to chat.

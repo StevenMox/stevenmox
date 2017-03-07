@@ -9,3 +9,5 @@ Finally decided to put this out into the wild still not fully stoked on it based
 <iframe class="myvid" width="700" height="400" src="https://www.youtube.com/embed/MstppfGkyfg" frameborder="0" allowfullscreen></iframe>
 
 So it's long school day Friday and i'm hella hurting from riding bikes last night. Can't stop won't stop though!! I have also signed up for a python course to start working on a bit more code because like I have been saying since the start of this whole thing we definitely don't do enough coding and for me to start learning more I have to do more. I'm excited to see what comes from it all. 😁
+
+<div class="quote"><b>"You will never reach your destination if you stop and throw stones at every dog that barks" - Winston S. Chruchill</b>

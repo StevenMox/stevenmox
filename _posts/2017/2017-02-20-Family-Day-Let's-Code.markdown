@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 So looks like it's a holiday here and there won't be any school to go to. So instead I will teach myself something within javascript. 🙂
 
-<b>"The whole secret of life is to be interested in one thing profoundly and in a thousand things well" - Horace Walpole</b>
+<div class="quote"><b>"The whole secret of life is to be interested in one thing profoundly and in a thousand things well" - Horace Walpole</b></div>
 
 <b><i>Awesome Brick Breaking Game</i></b>
 ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
