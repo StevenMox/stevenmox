@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "End of The Week"
+date:   2017-03-10
+categories: jekyll update
+---
+End of the week is here, first Friday after the intersession week and the amazing bike show. Still so very blown away by the fact that so many ppl are excitited about the whip to fuf clip. It has over 500,000 views to date and that just seems like absolute insanity to me. Let's just say the stoke is still very very high 😁. But the transition back into the code mindset and the even more challenging school mindset has been hard this week. What I have come to realize is no matter what happens at school or with the knowledge I'm being taught here, it will probabaly not suffice for actual work knowledge and I'm very much gunna need to learn a ton of programming on my own. I am not opposed to that method at all don't get me wrong but just interesting to know that that is how things are gunna have to end up playing out. I'm still very excitited and enjoy the learning process of the things I wanna learn and everyday I just need to keep reminding myself of that so that I am always pumped on things and never wanna stop. I read this awesome little blog post on <a href="http://www.thatsoftwaredude.com" target="_blank" title="The Software Dude">The Software Dude's</a> site <a href="http://www.thatsoftwaredude.com/content/6427/the-travelling-programmer" target="_blank" title="On The Move">"On The Move"</a>, it was exactly what I needed to give myself a little kick in the butt and remember where I'm trying to go with this entire programming thing. Before I leave I would also like to say that the book reading is going quite well and I have gotten through one and I'm half way through my second, I am very much enjoying the knowledge and quietness it is giving my life. Till next time y'all 😉
+
+<div class="quote"><b>“Focus on the journey, not the destination. Joy is found not in finishing an activity but in doing it.” - Greg Anderson</b>
