@@ -10,4 +10,4 @@ So this post might end up being a tad longer then my others. Many things have ha
 
 <div class="instagram-link"><div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="//giphy.com/embed/3o6ZtqcKgqEZh76uOc" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div></div>
 
-<div class="quote"><b>"We become what we think about most of the time, and that’s the strangest secret.”</b>
+<div class="quote"><b>"We become what we think about most of the time, and that’s the strangest secret.” – Earl Nightingale</b>
